@@ -197,8 +197,6 @@
 
 <img src="https://github.com/TihonYakovlev/Rehabilitation-App/assets/96542203/7d3701c0-0fac-482d-b77c-b29b56aeccda" width="300">
 
-<img src="https://github.com/TihonYakovlev/Rehabilitation-App/assets/96542203/2638f053-f069-481a-9acc-4ebfc39c12aa" width="300">
-
 ---
 
 # Термины и сокращения
@@ -214,7 +212,7 @@
 ---
 
 # Цитата
-> "Не бойся, когда ты один, бойся, когды ноль"  
+> "Не бойся, когда ты один, бойся, когда ты ноль"  
 > > _Дочерняя цитата:_ "Muchas gracias aficion, estos para vosotros!"  
 
 ---
