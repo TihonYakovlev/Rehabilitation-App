@@ -168,7 +168,7 @@
 
 ### Изображение: Просмотр информации о заболеваниях
 
-<img src="https://github.com/TihonYakovlev/Rehabilitation-App/assets/96542203/78dea17b-6891-4d63-9d08-7c36d0cd1c65" width="300">
+<img src="https://github.com/TihonYakovlev/Rehabilitation-App/assets/96542203/78dea17b-6891-4d63-9d08-7c36d0cd1c65" width="200">
 
 ---
 
@@ -195,7 +195,7 @@
 
 ### Изображение: Настройка темы оформления
 
-<img src="https://github.com/TihonYakovlev/Rehabilitation-App/assets/96542203/7d3701c0-0fac-482d-b77c-b29b56aeccda" width="300">
+<img src="https://github.com/TihonYakovlev/Rehabilitation-App/assets/96542203/7d3701c0-0fac-482d-b77c-b29b56aeccda" width="200">
 
 ---
 
